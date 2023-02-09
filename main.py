@@ -1,0 +1,2 @@
+p
+print("hello world")
